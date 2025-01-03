@@ -1,4 +1,4 @@
-# Discord Docker VPS Bot v2
+# Discord Docker VPS Bot v3
 
 > [!IMPORTANT]
 >
